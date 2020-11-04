@@ -110,20 +110,10 @@
 } 
 
 
-#subject1 {
-	font-size: 28px;
-  font-weight: 300;
-  text-align: left;
-  color: rgb(3, 153, 138);
+#dataTitle{
+color: rgb(5, 150, 140);
 } 
 
-#subject2 {
-  margin: 10px;
-  font-size: 17px;
-  line-height: 1.8em;
-  text-align: left;
-  color: rgb(3, 153, 138);;
-}
 
 #subject3 {
   font-size: 20px;
