@@ -16,7 +16,7 @@
 #landbox1 {
   background-color: white;
   width: auto;
-  height: 400;
+  height: 450px;
   margin-top: auto;
   margin-bottom: 20px;
   padding: 10px 20px 10px;
@@ -31,7 +31,6 @@
   background-color: white;
   width: auto;
   height: 400;
-  font-family: Gill Sans;
   padding: 10px 20px 10px;
   border-radius: 6px;
 }
@@ -52,15 +51,29 @@
   height:auto;  
 } 
 
+#singlelrg-imgbox{
+  background-color: white;
+  width: auto;
+  height: 650px;
+  margin-top: auto;
+  margin-bottom: 20px;
+  padding: 10px 20px 10px;
+  border-radius: 6px;
+}
 
-#four-img-large {
+#singlelrg-img {
   float: left;
   position: center;
   max-width:100%;
   height:auto;
-
   max-width:100%;
   height:auto;
+}
+
+#singlelrg-imgTitle{
+font-size: 30px;
+font-weight: bold;
+color: rgb(5, 150, 140);
 }
 
 #compbox {
